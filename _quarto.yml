@@ -2,18 +2,28 @@ project:
   type: website
 
 website:
-  title: "keitheleejr"
+  title: ""
   navbar:
-    left:
+    left: 
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+        
+    right:
+      - icon: github
+        href: https://github.com/keitheleejr
+      - icon: linkedin
+        href: https://www.linkedin.com/in/keitheleejr/
+        
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

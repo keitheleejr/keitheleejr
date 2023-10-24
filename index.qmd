@@ -1,11 +1,14 @@
 ---
-title: "keitheleejr"
+title: | 
+  | Dr. Keith E Lee Jr 
+  | Associate Professor
+image: cpm-headshot.jpeg
+about:
+  template: broadside
+  image-shape: rounded
+  image-width: 10em
 ---
 
-This is a Quarto website.
+I currently serve as the program coordinator for public administration (MPA/DPA) and organizational leadership programs at Valdosta State. My teaching focus includes quantitative methods for public administration (MPA), the MPA capstone, and occasional electives. I also relish teaching in-person undergraduate courses such as Congress, Southern Politics, and Introduction to American Government.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Beyond academia, I consult with local governments and nonprofit organizations. Some of my recent clients include South Georgia Medical Center, Georgia Manufactured Homes Association, Columbia County, GA, the Greater Valdosta United Way, and Camden Connections in Kingsland, GA.

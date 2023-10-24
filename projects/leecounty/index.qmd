@@ -1,0 +1,14 @@
+---
+title: "Land Use and Ad Valorem Tax Abatement Analysis as it Pertains to Lee County’s Solar Energy Systems Ordinance"
+date: 08-22-2021 
+image: "featured.jpg"
+author: 
+  - name: Nathan Willingharm
+  - name: Keith E Lee Jr
+---
+
+<iframe 
+  width="800" 
+  height="1030" 
+  src="leeco.pdf">
+</iframe>
