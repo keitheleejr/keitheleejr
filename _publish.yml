@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 467e2845-62a1-408c-b557-ccb7ea257fef
+      url: 'https://fabulous-dusk-9fffb9.netlify.app'

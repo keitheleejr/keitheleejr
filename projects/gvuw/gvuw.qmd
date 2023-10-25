@@ -7,7 +7,7 @@ author:
   - name: Keith E Lee Jr
 ---
 
-Download the [full report](gvuw.pdf).  
+Download the [full report](gvuw.pdf).
 
 ## Project Summary
 
