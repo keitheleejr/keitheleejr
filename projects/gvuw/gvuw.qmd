@@ -7,8 +7,8 @@ author:
   - name: Keith E Lee Jr
 ---
 
-<iframe 
-  width="800" 
-  height="1030" 
-  src="gvuw.pdf">
-</iframe>
+Download the [full report](gvuw.pdf). 
+
+## Project Summary
+
+Michael Smith (President & CEO of the Greater Valdosta United Way [GVUW]) submitted a draft plan or request for a Needs Assessment Survey to Darrell Moore (Valdosta State University’s [VSU] Director of the South Georgia Center for Regional Impact) in December 2022. Darrell then contacted Drs. Keith Lee and Joseph Robbins (both at VSU) to secure their assistance in designing and analyzing a Needs Assessment survey targeting residents from 11 counties in South Georgia (i.e., Atkinson, Bacon, Berrien, Brooks, Clinch, Coffee, Echols, Jeff Davis, Lanier, Lowndes, and Ware County). Smith explained that his goal for this project was to better understand how the economic and COVID-19 strains have impacted residents in these counties, assess the mental and psychological needs of these residents, and then to identify the nonprofit services being used (or needed) in the GVUW’s service region. The survey was designed and then launched in January 2023 and concluded at the end of April 2023. All told, 1,300 survey responses were received during the survey period thanks to the help of numerous nonprofit organizations, who were instrumental in spreading the word. The rest of this report outlines our survey methodology and subsequent analysis.
