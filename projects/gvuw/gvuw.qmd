@@ -2,6 +2,7 @@
 title: "Greater Valdosta United Way (GVUW) Needs Assessment"
 date: 05-01-2023 
 image: "gvuw.jpg"
+toc: false
 author: 
   - name: Joseph Robbins
   - name: Keith E Lee Jr

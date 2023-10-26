@@ -7,8 +7,10 @@ website:
     left: 
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
       - href: projects.qmd
-        text: Projects
+        text: Consulting
       - href: cv.qmd
         text: CV
         
