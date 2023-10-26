@@ -3,9 +3,6 @@ title: "Camden County Community Development Block Grant Disaster Recovery (CDBG-
 date: 03-03-2023
 image: "camden.png"
 toc: false
-author: 
-  - name: Keith E Lee Jr
-  - name: Joseph Robbins
 ---
 
 Download the [full report](camden.pdf).

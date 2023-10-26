@@ -3,9 +3,6 @@ title: "Land Use and Ad Valorem Tax Abatement Analysis as it Pertains to Lee Cou
 date: 08-22-2021 
 image: "featured.jpg"
 toc: false
-author: 
-  - name: Nathan Willingharm
-  - name: Keith E Lee Jr
 ---
 
 Download the [Full Report](leeco.pdf).
