@@ -1,7 +1,5 @@
 ---
-title: | 
-  | Dr. Keith E Lee Jr 
-  | Associate Professor
+title: Dr. Keith E. Lee Jr.
 image: cpm-headshot.jpeg
 about:
   template: broadside
