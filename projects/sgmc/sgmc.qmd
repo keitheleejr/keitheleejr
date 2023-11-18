@@ -10,6 +10,12 @@ toc: false
 
 ***Report forthcoming.***
 
+Access the SGMC CHNA Data Explorer [here](shiny_sgmc.qmd).
+
+or [here](https://k9sfya-keith-lee.shinyapps.io/sgmc/)
+
+<iframe height="400" width="100%" frameborder="no" src="https://k9sfya-keith-lee.shinyapps.io/sgmc/"> </iframe>
+
 The South Georgia Medical Center (SGMC) is pleased to present this 2023 Community Health Needs Assessment (CHNA) for the Berrien Campus in Nashville, Georgia and teh Lanier Campus in Lakeland Georgia. The plans were developed by SGMC staff in conjunction with Drs. Keith Lee and Joseph Robbins (Valdosta State University faculty) and Valdosta State University's Center for South Georgia Regional Impact (led by Darrell Moore). Lee, Robbins, and Moore have extensive consulting experience, having worked with numerous public and private organizations. 
 
 This CHNA is based on information gathered from a variety of sources, including:   

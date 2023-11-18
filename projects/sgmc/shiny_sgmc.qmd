@@ -1,0 +1,12 @@
+---
+title: | 
+  South Georgia Medical Center (SGMC) 
+  Community Health Needs Assessment (CHNA)
+date: 11-15-2023
+image: "sgmc.png"
+toc: false
+
+---
+
+
+<iframe height="400" width="100%" frameborder="no" src="https://k9sfya-keith-lee.shinyapps.io/sgmc/"> </iframe>
