@@ -1,0 +1,14 @@
+---
+title: ""
+listing:
+  contents: portfolio
+  sort: "date desc"
+  type: grid
+  categories: unnumbered
+  sort-ui: false
+  filter-ui: false
+  fields: [image, date, title, reading-time, categories]
+  image-height: 200px
+page-layout: full
+title-block-banner: false
+---

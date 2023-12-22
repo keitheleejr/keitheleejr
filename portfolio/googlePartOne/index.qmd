@@ -1,0 +1,11 @@
+---
+title: "Coming Soon"
+date: 12-22-2023
+image: "gad.png"
+toc: false
+categories: 
+  - Python
+  - EDA
+---
+
+This is a placeholder. I am in the process of updating my website to include a data analysis portfolio. The first few posts will be from the course projects in the Google Advanced Data Analytics Certificate. Please check back soon for updates.
