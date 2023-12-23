@@ -4,7 +4,7 @@ listing:
   contents: portfolio
   sort: "date desc"
   type: grid
-  categories: unnumbered
+  categories: false
   sort-ui: false
   filter-ui: false
   fields: [image, date, title, reading-time, categories]
@@ -12,3 +12,5 @@ listing:
 page-layout: full
 title-block-banner: false
 ---
+
+This is a placeholder. I am in the process of updating my website to include a data analysis portfolio. The first few posts will be from the course projects in the Google Advanced Data Analytics Certificate. Please check back soon for updates.
