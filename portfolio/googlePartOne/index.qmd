@@ -1,7 +1,7 @@
 ---
 title: "Google Advanced Data Analytics Certification: Exploratory Data Analysis"
 date: 12-22-2023
-image: "gad.png"
+image: "scatterplot.png"
 toc: false
 categories: 
   - Python
@@ -198,6 +198,36 @@ credit_card = df[df['payment_type']==1]
 credit_card.groupby(['passenger_count']).mean(numeric_only=True)[['tip_amount']]
 ```
 
+
+* Create a scatter plot to show the relationshipo between trip distance and total amount.
+
+```{python}
+import matplotlib.pyplot as plt
+
+# Scatter plot
+plt.figure(figsize=(8, 6))
+plt.scatter(df['trip_distance'], df['total_amount'], alpha=0.5)
+plt.title('Scatter Plot: Total Payment vs Trip Distance')
+plt.xlabel('Total Payment')
+plt.ylabel('Trip Distance')
+plt.grid(True)
+plt.show()
+
+```
+
+
+```{python}
+rm_outliers = df[(df['total_amount'] <= 200) & (df['total_amount'] > 0)]
+
+plt.figure(figsize=(8, 6))
+plt.scatter(rm_outliers['trip_distance'], rm_outliers['total_amount'], alpha=0.5)
+plt.title('Scatter Plot: Total Payment vs Trip Distance')
+plt.xlabel('Total Payment')
+plt.ylabel('Trip Distance')
+plt.grid(True)
+plt.show()
+
+```
 :::{.callout-important}
 ## 
 This concludes the Course 2 final assignment
