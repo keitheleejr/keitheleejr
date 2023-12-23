@@ -86,7 +86,7 @@ cvproj <- function(tbl,what,role,items){
 
 # Summary
 
-Dedicated academic and Certified Public Manager (CPM) with a passion for leveraging analytical expertise in a new capacity as a Data Analyst, ideally in the public sector. Proficient in research methodologies, data interpretation, and project management cultivated through extensive academic experience. Skilled in transforming complex datasets into actionable insights and adept at employing statistical tools and programming languages (R and Python) to drive informed decision-making. Seeking to apply diverse skills in a dynamic data-driven environment to deliver impactful solutions.
+Dedicated academic and Certified Public Manager (CPM) with a passion for leveraging analytical expertise in a new capacity as a Data Analyst. Proficient in research methodologies, data interpretation, and project management cultivated through extensive academic experience. Skilled in transforming complex datasets into actionable insights and adept at employing statistical tools and programming languages (R and Python) to drive informed decision-making. Seeking to apply diverse skills in a dynamic data-driven environment to deliver impactful solutions.
 
 # Experience
 

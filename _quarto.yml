@@ -17,7 +17,7 @@ website:
       - href: portfolio.qmd
         text: Portfolio
         
-      - href: files/CV.pdf
+      - href: _site/cv/CV.pdf
         text: CV
         
     right:
