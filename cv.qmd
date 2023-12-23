@@ -1,9 +1,0 @@
----     
-title: ""
---- 
-
-<iframe 
-  width="800" 
-  height="800" 
-  src="images/cv.pdf">
-</iframe>

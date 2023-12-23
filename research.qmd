@@ -45,15 +45,11 @@ of Politics 34 (Summer): 85-102
 
 ## Works in Progress
 
-_Southern Echoes and Shattered Illusions: A Memoir of Awakening_ 
+[Book] _Quantitative Methods for Public Administration and Public Policy with Applications in R_
 
-I am currently working on a memoir about my experiences growing up in the South and how those experiences shaped my political views. More importantly, I am writing about how my views have changed over time and how I have come to see the world differently. This is primarily a personal project, but I hope to have it published in the next few years.
+This textbook will cover statistical analysis relevant to public administration and policy. Readers will learn how to clean, analyze, and visualize data using the tidyverse library. 
 
-_Southern Subnational Authoritarianism: A Repressive Response to the People's Party_  
-
-This book delves into the emergence of the People's Party in the Southern region and analyzes the ensuing reaction from the Democratic Party. My contention is that the Democratic Party's reaction to the People's Party amounted to a subnational authoritarian approach aimed at suppressing individuals linked to the populist movement, specifically targeting African Americans and impoverished whites. The study builds on the work of V.O. Key's _Southern Politics in State and Nation_, Edward Gibson's _Boundary Control_, and Richard Bensel's _Sectionalism and American Political Development_, among others. 
-
-"Regional Contrasts in County-Level Public Management: Cultural Influences and Administrative Dynamics" with Joseph Robbins. 
+[Article] "Regional Contrasts in County-Level Public Management: Cultural Influences and Administrative Dynamics" with Joseph Robbins. 
 
 _Introduction_ Public management research often focuses on municipalities within individual states, raising questions about broader applicability due to cultural and historical variations across subregions in America. To address this gap, our study examines county-level data across states, and regions, aiming to shed light on rural public management differences. _Methodology_ Using county-level data as our unit of analysis, we examine local government structures to discern how local factors and regional characteristics impact public management patterns. Data sources and specific analysis methods will be detailed in the final paper. _Hypothesis_ Drawing from Elazar's subculture theory (1966), we hypothesize that counties within traditionalistic regions (e.g., the American South) may exhibit unique characteristics in their public administration. Specifically, we anticipate differences in the backgrounds and educational profiles of county administrators, results in a stronger reliance on local elites and less emphasis on formal education. _Conclusion_ This research seeks to uncover how regional subcultures influence county-level public management. By exploring these nuances, we aim to contribute to a more comprehensive understanding of how cultural contexts shape administrative practices.
 
