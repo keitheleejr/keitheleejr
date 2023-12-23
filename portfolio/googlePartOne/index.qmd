@@ -6,7 +6,7 @@ toc: false
 categories: 
   - Python
   - EDA
-draft: true
+draft: false
 ---
 
 ```{r setup, include=FALSE}
