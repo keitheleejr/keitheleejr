@@ -4,6 +4,7 @@ image: cpm-headshot.jpeg
 about:
   template: broadside
   image-width: 10em
+toc: false
 ---
 ## Keith E Lee Jr., Ph.D., CPM
 
