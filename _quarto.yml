@@ -14,9 +14,6 @@ website:
       - href: projects.qmd
         text: Consulting
         
-      - href: portfolio.qmd
-        text: Portfolio
-        
       - href: files/CV.pdf
         text: CV
         
