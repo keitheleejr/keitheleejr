@@ -6,7 +6,7 @@ title-block-banner: false
 
 ## Book
 
-Kimberly Martin, **Keith E. Lee Jr.**, and John Hall. 2021. *Public Policy: Origins, Practice, and Analysis.* University of North Georgia Press.  [PDF](research/pubpolicy.pdf). Also available at [UNG Press](https://ung.edu/university-press/books/public-policy.php)
+Kimberly Martin, **Keith E. Lee Jr.**, and John Hall. 2024. *Public Policy: Origins, Practice, and Analysis.* University of North Georgia Press.  [PDF](research/pubpolicy.pdf). Also available at [UNG Press](https://ung.edu/university-press/books/public-policy.php)
 
 
 ## Peer Reviewed Articles
