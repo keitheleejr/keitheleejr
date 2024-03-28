@@ -1,23 +1,24 @@
 ---
 title: | 
-  South Georgia Medical Center (SGMC) 
-  Community Health Needs Assessment (CHNA)
+  South Georgia Medical Center (SGMC) Community Health Needs Assessment (CHNA)
 date: 11-15-2023
 image: "sgmc.png"
 toc: false
 
 ---
 
-***Report forthcoming.***
+Download the full reports:
 
-[SGMC CHNA Data Explorer _this is a work in progress_](https://k9sfya-keith-lee.shinyapps.io/sgmc/) 
+[Berrien County](berrien.pdf)
 
-The South Georgia Medical Center (SGMC) is pleased to present this 2023 Community Health Needs Assessment (CHNA) for the Berrien Campus in Nashville, Georgia and teh Lanier Campus in Lakeland Georgia. The plans were developed by SGMC staff in conjunction with Drs. Keith Lee and Joseph Robbins (Valdosta State University faculty) and Valdosta State University's Center for South Georgia Regional Impact (led by Darrell Moore). Lee, Robbins, and Moore have extensive consulting experience, having worked with numerous public and private organizations. 
+[Lanier County](lanier.pdf)
 
-This CHNA is based on information gathered from a variety of sources, including:   
+The South Georgia Medical Center (SGMC) is pleased to present these 2023 Community Health Needs Assessments (CHNA) for the Berrien Campus in Nashville, Georgia and the Lanier Campus in Lakeland Georgia. The plans were developed by SGMC staff in conjunction with Drs. Keith Lee and Joseph Robbins (Valdosta State University faculty) and Valdosta State University’s Center for South Georgia Regional Impact (led by Darrell Moore). Lee, Robbins, and Moore have extensive consulting experience, having worked with numerous public and private organizations.
 
-1. Focus group interviews with community advocates and stakeholders who are knowledgeable about public health and healthcare issues;   
+This CHNA is based on information gathered from a variety of sources, including:
 
-2. A community survey of Berrien County residents; and,   
+1. Focus group interviews with community advocates and stakeholders who are knowledgeable about public health and healthcare issues;
 
-3. Secondary data compiled from national, state, and local agencies and organizations. 
+2. A community survey of Berrien County residents; and,
+
+3. Secondary data compiled from national, state, and local agencies and organizations.

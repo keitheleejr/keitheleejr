@@ -1,0 +1,15 @@
+---
+title: "Gwinnett County"
+date: 04-15-2024
+image: "gwinnett.png"
+toc: false
+
+---
+
+<!--
+Download the [full report](gwinnett.pdf).
+-->
+
+Report forthcoming. Expected date April 15, 2024. 
+
+The Center for South Georgia Regional Impact (CSGRI), at Valdosta State University was contacted by Gwinnett County to conduct an analysis  of the potential fiscal impact on the county by a proposed City of Mulberry. This study examines the impact on Gwinnett County revenues and expenditures by the proposed incorporation of the City of Mulberry. For this report we rely on the boundaries and services outlined in Senate Bill 333 of the Georgia Legislature as enacted. The proposed city boundaries are composed of an unincorporated area in northeastern Gwinnett County. 

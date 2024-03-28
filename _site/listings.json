@@ -8,6 +8,8 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/gwinnettco/gwinnett.html",
+      "/projects/columbiaco/columbia.html",
       "/projects/sgmc/sgmc.html",
       "/projects/gvuw/gvuw.html",
       "/projects/camden/index.html",

@@ -1,0 +1,18 @@
+---
+title: "Columbia County"
+date: 01-15-2024
+image: "cclogo.png"
+toc: false
+
+---
+
+Download the [full report](columbia.pdf).
+
+The Center for South Georgia Regional Impact (CSGRI), at Valdosta State University
+responded to a request for proposal (RFP) and was selected to develop an analysis of
+the fiscal feasibility of the proposed Columbia City. The analysis's purpose is to
+estimate the study area's ability to meet its expenditures with available revenue sources.
+This report provides estimates of revenues and expenditures that a potential Columbia
+City, if incorporated, could expect in providing certain municipal services for a single
+fiscal year. We also spoke with individuals at related institutions and governments and
+researched current legislation at the state and local level.
