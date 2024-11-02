@@ -1,0 +1,10 @@
+---
+title: ""
+toc: false
+---
+
+My commitment lies in bridging academia with practical solutions in public administration, combining a strong educational foundation with data-driven insights. With a Ph.D. in Political Science, I specialize in teaching graduate courses covering quantitative methods, research design, public management, and public policy.
+
+In consultancy, my core focus is empowering communities through data-driven methodologies. Employing specialized survey research techniques, I aid local governments and nonprofit organizations in crafting well-informed decisions grounded in evidence. This includes trend identification and program evaluation.
+
+My expertise spans vital domains including quantitative methods, regression analysis, statistical modeling, survey design, and data visualization.Proficiency-wise, I bring expertise in R at an advanced level, possess intermediate knowledge in SQL, and continue to expand my skills in Python.

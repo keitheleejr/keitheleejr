@@ -1,11 +1,8 @@
 [
   {
-    "listing": "/portfolio.html",
-    "items": []
-  },
-  {
     "listing": "/projects.html",
     "items": [
+      "/projects/coastalplain/coastalplain.html",
       "/projects/gwinnettco/gwinnett.html",
       "/projects/columbiaco/columbia.html",
       "/projects/sgmc/sgmc.html",

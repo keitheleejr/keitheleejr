@@ -8,8 +8,11 @@ website:
       - href: index.qmd
         text: Home
         
+      - href: about.qmd
+        text: About
+        
       - href: research.qmd
-        text: Scholarship
+        text: Research
         
       - href: projects.qmd
         text: Consulting
@@ -26,7 +29,7 @@ website:
 
 format:
   html:
-    theme: litera
+    theme: spacelab
     css: styles.css
     toc: true
 

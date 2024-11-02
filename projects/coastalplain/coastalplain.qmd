@@ -1,0 +1,11 @@
+---
+title: "Coastal Plain EOA"
+date: 10-15-2024
+image: "coastalplaineoa.png"
+toc: false
+
+---
+
+Download the [full report](coastalplain.pdf).
+
+This is a community needs assessment completed in collaboration with a colleague. My primary role was survey development, distribution, and analysis. I created visualizations and assisted with report writing. 
