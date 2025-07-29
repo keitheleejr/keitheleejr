@@ -1,0 +1,216 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: Keith Edward Lee Jr., Ph.D., CPM
+
+jobtitle: "Associate Professor, Department of Political Science"
+address: "Valdosta State University · 1500 N. Patterson St. · Valdosta, GA 31698"
+fontawesome: yes
+email: keilee@valdosta.edu
+github: keitheleejr
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+phone: "229.392.6726"
+web: keitheleejr.com
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EMPLOYMENT
+
+Associate Professor, Valdosta State University, July 2022-present    
+Assistant Professor, Valdosta State University, July 2020-2022   
+Assistant Professor, Georgia College & State University, August 2016-June 2020
+
+# EDUCATION 
+
+Ph.D., Department of Political Science, University of Florida, 2017  
+M.A., Department of Political Science, University of Florida, 2015  
+M.P.A., Department of Political Science, Valdosta State University, 2011  
+B.A., Department of Political Science, Valdosta State University, 2010  
+A.A., Department of Political Science, Abraham Baldwin Agricultural College, 2009 
+
+# Professional Certifications
+
+Certified Online Instructor, VSU, 2024.   
+CPM, National Certified Public Manger Consortium, 2023.   
+
+
+# PUBLICATIONS
+
+## Books
+
+[Under Contract] *R for Public Managers: A Practical Guide to Data Analysis and Visualization in Public Administration* Expected publication Summer 2026.  
+
+Kimberly Martin, Keith E. Lee Jr., and John Hall. 2021. *Public Policy* University of North Georgia Press.  
+
+
+## Refereed Journal Articles
+
+Kristina M. LaPlant, Keth E. Lee Jr., and James T. LaPlant. 2024. "Stopping the Steal and Selling the Big Lie: An Analysis of Tweets and Certification Votes Among House Republicans in the Wake of the 2020 Presidential Election." *American Politics Reearch*  
+
+Kristina M. LaPlant, Deryl Mack Seckinger, Keith E Lee Jr., and James T. LaPlant. 2021. "Cocked, Locked, and Loaded: An Analysis of the Five Policy Regimes of Concealed Carry on College Campuses." *Politics & Policy*  
+
+Kristina M. LaPlant, Keith E. Lee Jr., and James T. LaPlant. 2020. "Christmas Trees, Presidents, and Mass Shootings: Explaining Gun Purchases in the South and Non-South." *Social Science Quarterly*  
+   
+Keith E. Lee Jr., Sydny Bryan, and James LaPlant. 2017. "Game Day Meets Election Day: Sports Records, Election Results, and the American South." *Social Science Quarterly* 
+
+Seth C. McKee, Antoine Yoshinaka, Keith E. Lee Jr., and Richard McKenzie. 2016. ``Party Switchers and Reelection: A Precinct Level Analysis." *American Review of Politics.* 35(2): 1-26.
+
+Mandi Bates Bailey, Keith Lee, and Lee R. Williams. 2013. "Repealing 'Don't Ask, Don't Tell': The Impact of Stereotypes on Attitudes toward Homosexuals in the Military." *American Review of Politics* 34 (Summer): 85-102.
+
+# AWARDS AND HONORS
+
+2023, Raymond Chambers Award, Georgia Political Science Association   
+2021, Donald T. Wells Award, Georgia Political Science Association  
+2019, Georgia College College of Arts & Sciences Faculty Excellence Award for Online Teaching  
+2018, Georgia College, Coverdell Public Policy Fellow  
+
+
+# CONFERENCE PARTICIPATION 
+
+## Papers Presented 
+
+"Cyber Capabilities and Counterterrorism" with Joseph Robbins at the Georgia Political Science Association in St. Simons, GA, November 9-11, 2024.   
+
+"Regional Contrasts in County-Level Public Management: Cultural Influences and Administrative Dynamics" with Joseph Robbins at the Symposium of Southern Politics at the Citadel in Charleston, S.C., March 7-8,2024.  
+
+“The Kids are Alright: Nonprofit Organizations’ Presence and Impact in South Georgia” with Joseph Robbins at the Georgia Political Science Association in St. Simons, GA, November 8-10, 2023.   
+
+“Global Pandemics and the Rural Response: Rural Georgia’s Challenge and Response to COVID-19” with Joseph Robbins and Steven Sainz at the Georgia Political Science Association in Savannah, GA, November 9-11, 2022.   
+
+"Run Herschel Run: Projecting the 2022 Senate Race in Georgia" with Karen Owen and James LaPlant at the Symposium of Southern Politics at the Citadel in Charleston, S.C., March 3-4, 2022.  
+
+"Stopping the Steal and Selling the Big Lie: An Analysis of Tweets and Certification Votes Among House Republicans in the Wake of the 2020 Presidential Election" with Kristina LaPlant and James LaPlant at the Georgia Political Science Association in Savannah, GA, November 10-12, 2021.  
+
+"The Economic Impact of Rural Hospital Closures in Georgia" at the Georgia Political Science Association in Savannah, GA, November 6-8, 2019.  
+
+"Religion, Republicanism, and Realignment in Alabama: An Analysis of the 2017 U.S. Senate Special Election'' with James LaPlant at the Symposium of Southern Politics at the Citadel in Charleston, S.C., March 4-5, 2018.  
+
+"Reconstructed: Institutional Reform in the U.S. House and the Shaping of Southern Politics" at the Symposium of Southern Politics at the Citadel in Charleston, S.C., March 3-4, 2016.  
+
+"The Allure and Conceit of the Newest South: Revisiting the Black Belt" with Nicholas A. Rudnik at the Symposium of Southern Politics at the Citadel in Charleston, S.C., March 3-4, 2016.  
+
+"Who Punishes Party Switchers?" with Seth McKee (Texas Tech University), Antoine Yoshinaka (American University) and Richard McKenzie (University of South Florida) at the Symposium on Southern Politics at the Citadel in Charleston, S.C., March 6-7, 2014.  
+
+"Game Day Meets Election Day: Sports Records, Election Results, and the American South,"  with James LaPlant and Sydny Bryan (Valdosta State University) at the Symposium on Southern Politics at the Citadel in Charleston, S.C., March 6-7, 2014.  
+
+"Repealing 'Don't Ask, Don't Tell': The Impact of Stereotypes on Attitudes to Homosexuals Serving in the Military" with Mandi Bailey. Annual meeting of the Midwest Political Science Association, Chicago, IL, April 12-14, 2012.   
+
+"The Uses and Abuses of Twitter: How Members of Congress are Relying on Twitter to Shape Public Opinion and Divide America." Annual meeting of the Georgia Political Science Association, Savannah, GA, November 10-12, 2011.  
+
+"Reflections from a Local Election in South Georgia: A Handbook for Aspiring Candidates." Annual meeting of the Southern Political Science Association, New Orleans, LA, January 13-15, 2011.  
+
+"North Carolina: Prototype for Progressivism in the South." Annual Undergraduate Research Symposium in the College of Arts and Sciences at Valdosta State University. Valdosta, GA, April 15-16, 2010.  
+
+## Invited Talks  
+
+"Founding Principles: The Legacy of the Founding Fathers in Modern Public Policy." Florida State College at Jacksonville History Symposium. March 29, 2025.  
+
+"American Foreign Policy Under President Trump: Reflections and Predictions." University of West Bohemia. March 12, 2025.   
+
+"American Politics in Flux." University of West Bohemia. March 11, 2025.   
+
+"Quantitative Analysis: Describing, Testing, and Reporting." Valdosta State University. November 19, 2024.  
+
+
+# TEACHING EXPERIENCE 
+
+## Valdosta State University, Valdosta, GA 
+
+POLS 1101 Introduction to American Government  
+POLS 3210 Congress  
+POLS 4270 Southern Politics  
+PADM 7060 Quantitative Methods   
+PADM 7190 Public Management  
+PADM 7250 Managing Small Cities and Counties  
+
+## Georgia College, Milledgeville, GA 
+
+POLS 4000 Systematic Analysis     
+POLS 4211 Legislative Politics & Behavior     
+POLS 4241 Southern Politics     
+POLS 4920 Senior Seminar     
+POLS 4950 American Political Development     
+POLS 4950 Knope, Swanson, and Public Service  
+PUAD 6578 Public Finance and Budgeting    
+PUAD 6605 Quantitative Techniques      
+
+
+# SERVICE
+
+## Profession
+
+Solicited Chapter Review. *Vernon Press* (2025)  
+Solicited Textbook Review. *Routledge* (2024)  
+Solicited Textbook Review. *Routledge* (2023)  
+Treasurer. *Georgia Political Science Association.* (2021-2024)  
+Immediate Past President. *Georgia Political Science Association.* (2020-2021)   
+Solicited Manuscript Review. *Congress & The Presidency.* (2020)  
+Solicited Manuscript Review. *American Review of Politics.* (2019)  
+Member. *Regents' Advisory Council* (2018-2020).   
+President. *Georgia Political Science Association* (2018-2020).     
+Vice-President/Program Chair. *Georgia Political Science Association* (2017-2018).   
+Solicited Textbook Review. *Ohlinger Publishing* (2018).  
+Solicited Textbook Review. *Pearson* (2018)  
+Solicited Manuscript Review. *Perspectives on Politics* (2018).  
+Solicited Textbook Review. *Sage|CQPress.* (2017).  
+Solicited Manuscript Review. *American Review of Politics* (2017).  
+Board Member. *Georgia Political Science Association* (2016-2017).   
+Solicited Textbook Review. *Sage|CQPress.* (2016).   
+Solicited Manuscript Review. *Social Science Quarterly* (2015).  
+
+## University
+
+VSU:  
+
+Faculty Athletics Representative. 2025-present.  
+Advisor. Model U.S. Senate, 2020-present.  
+Member. Graduate Scholarship Committee, 2020-2024.  
+Member. Graduate Student Research Symposium Subcommittee. 2020-2024.  
+Member. Graduate Executive Committee. 2020-2024.  
+Member. Doctoral Programs Subcommittee. 2020-2024.  
+Member. Graduate Assistant Allocation Subcommittee. 2020-2024.  
+Member. Graduate Executive Committee. 2020-2024.  
+
+GCSU:  
+
+Member. Women's Center Advisory Board, 2019-2020.  
+Advisor. Model U.S. Senate, 2019-2020.   
+  
+
+## College
+
+GCSU:  
+
+Chair. Georgia College College of Arts and Sciences Dean's Advisory Council, 2018-2019.  
+Member. Georgia College College of Arts and Sciences Dean's Advisory Council, 2017-2018.  
+
+## Department 
+
+VSU:  
+
+Member. Athletics Compliance Officer Search Committee. Spring 2025.   
+Chair. MPA Program Coordinator Search Committee, Fall 2023-Spring 2024.  
+Member. Public Administration Coordinator Search Committee, Spring 2023.  
+Member. Limited Term Faculty Search Committee, Spring 2023.   
+Member. Public Administration Program Coordinator Search Committee, Spring 2023.   
+Member. Valdosta State Organizational Leadership Search Committee Member, Fall 2020.  
+
+GCSU:  
+
+Chair. Anthropology Search Committee, Spring 2019.  
+Member. Community Service & Outreach Subcommittee, 2018-present.  
+Member. Public Administration Search Committee, Spring 2018. 
+Program Coordinator. Political Science, 2017-2018.  
+Member. Public Policy Distinctiveness Subcommittee, 2016-2018.  

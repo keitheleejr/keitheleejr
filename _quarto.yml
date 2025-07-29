@@ -21,6 +21,8 @@ website:
         text: CV
         
     right:
+      - icon: envelope-at-fill
+        href: mailto:Keith Lee <keith@keitheleejr.com>
       - icon: github
         href: https://github.com/keitheleejr
       - icon: linkedin

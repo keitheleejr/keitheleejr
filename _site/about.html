@@ -106,6 +106,11 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
+    <a class="nav-link" href="mailto:keith@keitheleejr.com"> <i class="bi bi-mail" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/keitheleejr"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
@@ -133,9 +138,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>My commitment lies in bridging academia with practical solutions in public administration, combining a strong educational foundation with data-driven insights. With a Ph.D.&nbsp;in Political Science, I specialize in teaching graduate courses covering quantitative methods, research design, public management, and public policy.</p>
-<p>In consultancy, my core focus is empowering communities through data-driven methodologies. Employing specialized survey research techniques, I aid local governments and nonprofit organizations in crafting well-informed decisions grounded in evidence. This includes trend identification and program evaluation.</p>
-<p>My expertise spans vital domains including quantitative methods, regression analysis, statistical modeling, survey design, and data visualization.Proficiency-wise, I bring expertise in R at an advanced level, possess intermediate knowledge in SQL, and continue to expand my skills in Python.</p>
+<p>I teach at Valdosta State University—courses on Congress, Southern Politics, and Public Management. I also guide current and aspiring public managers through the practice of applied research and quantitative methods. Beyond the classroom, I serve on more dissertation committees than is probably healthy—but I say yes because I care. I believe in showing up. In helping students feel seen. In making complex ideas feel a little less intimidating. That’s what keeps me in this work. Not just the subjects I teach, but the relationships I build through them.</p>
+<p>I’m an Associate Professor of Political Science, a published author, and someone whose research has appeared in journals and been presented at professional conferences. My work focuses on American political institutions, Southern politics, and public management, with an emphasis on practical relevance and public impact. I’ve co-authored a textbook on public policy, served in leadership for the Georgia Political Science Association, and occasionally consult with local governments and nonprofits to support evidence-informed decision-making.</p>
+<p>Right now, I’m writing a book called R for Public Managers and building a YouTube channel to bring practical, accessible data instruction to students and practitioners alike. But no matter the format—lecture, book, video, or hallway conversation—my goal is the same: help people think more clearly, lead more confidently, and feel just a bit less alone in the learning process.</p>
 
 
 
@@ -232,7 +237,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/keitheleejr\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

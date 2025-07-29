@@ -2,7 +2,7 @@
 title: "Dr. Keith E Lee Jr."
 about:
   template: jolla
-  image: cpm-headshot.jpeg
+  image: headshot.JPG
 toc: false
 ---
 
