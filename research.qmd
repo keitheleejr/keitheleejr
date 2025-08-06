@@ -33,6 +33,10 @@ of Politics 34 (Summer): 85-102
 
 ## Conference Papers
 
+"Cyber Capabilities and Counterterrorism" with Joseph Robbins at the Georgia Political Science Association in St. Simons, GA, November 9-11, 2024. 
+
+"Regional Contrasts in County-Level Public Management: Cultural Influences and Administrative Dynamics" with Joseph Robbins at the Symposium of Southern Politics at the Citadel in Charleston, S.C., March 7-8,2024.
+
 "The Kids are Alright: Nonprofit Organizations’ Presence and Impact in South Georgia" with Joseph Robbins at the Georgia Political Science Association in Savannah, GA, November 8-10, 2023.
 
 "Global Pandemics and the Rural Response: Rural Georgia’s Challenge and Response to COVID-19" with Joseph Robbins and Steven Sainz at the Georgia Political Science Association in Savannah, GA, November 9-11, 2022.
@@ -47,13 +51,28 @@ of Politics 34 (Summer): 85-102
 
 ## Works in Progress
 
-_Quantitative Methods for Public Administration and Public Policy with Applications in R_
+### Books
 
-This textbook will cover statistical analysis relevant to public administration and policy. Readers will learn how to clean, analyze, and visualize data using the tidyverse library. 
+_R for Public Managers: A Practical Guide to Data Analysis and Visualization in Public Administration_ (Expected 2026)
 
-"Regional Contrasts in County-Level Public Management: Cultural Influences and Administrative Dynamics" with Joseph Robbins. 
+R for Public Managers is a practical, hands-on guide that empowers public sector professionals, whether graduate students or seasoned administrators, to harness R’s open-source capabilities for real-world policy and management challenges. Drawing on relatable use cases from budgeting and program evaluation to spatial analysis and predictive modeling, the book walks you through every step: installing R and RStudio, importing and cleaning messy datasets, running core statistical tests, and producing publication worthy visualizations. Each chapter balances technical rigor with accessible examples, ensuring you not only learn the syntax but also understand how to translate insights into actionable decisions that enhance transparency, accountability, and community impact. By blending theory with practice, _R for Public Managers_ equips you with the confidence and skills to make data-driven decisions that drive better public outcomes.
 
-_Introduction_ Public management research often focuses on municipalities within individual states, raising questions about broader applicability due to cultural and historical variations across subregions in America. To address this gap, our study examines county-level data across states, and regions, aiming to shed light on rural public management differences. _Methodology_ Using county-level data as our unit of analysis, we examine local government structures to discern how local factors and regional characteristics impact public management patterns. Data sources and specific analysis methods will be detailed in the final paper. _Hypothesis_ Drawing from Elazar's subculture theory (1966), we hypothesize that counties within traditionalistic regions (e.g., the American South) may exhibit unique characteristics in their public administration. Specifically, we anticipate differences in the backgrounds and educational profiles of county administrators, results in a stronger reliance on local elites and less emphasis on formal education. _Conclusion_ This research seeks to uncover how regional subcultures influence county-level public management. By exploring these nuances, we aim to contribute to a more comprehensive understanding of how cultural contexts shape administrative practices.
+_Congress at the Crossroads: Revisiting Dodd and Reimagining Reform_  
+Edited by Keith E. Lee Jr. and Kevin Baron  
+
+Congress stands at a historic inflection point, marked by heightened polarization, institutional logjams, and evolving party forces. In this edited volume, former students of Dr. Larry Dodd examine Congress through a Doddian lens to illuminate how past patterns of party empowerment, committee reform, and realignment continue to shape today’s legislature. Through rich historical case studies, original empirical analyses, and forward-looking essays, contributors diagnose current challenges, from gridlock and executive-legislative tensions to committee turf wars, and propose pragmatic pathways for revitalizing congressional capacity. By bridging Dodd’s classic insights with contemporary realities, _Congress at the Crossroads_ offers students, scholars, and reform advocates a fresh, cycle-informed framework for understanding and reimagining the future of the U.S. House and Senate.
+
+### Book Chapters
+
+"Cyber Capabilities and Counterterrorism"
+
+Following the attacks on 9/11, many countries throughout the world looked to shore up Internet regulation in order to thwart future attacks (Watney 2007). Rich, analytical summations of different legal, ethical, or policy-based discussions of efforts to counter terrorism through various regulatory means (e.g., West 2021). One strand of such work follows the evolution of cybersecurity capacity building (CCB), whereby scholars such as Pawlak and Barmpaliou (2016) have commented on the uneven pace at which states have fortified their own CCB. These works allude to a couple limitations in the extant counter-terrorism literature vis-à-vis online-based tools. First, much of the work has yet to systematically analyze variations in governments’ ability to strengthen their ability to monitor or regulate the Internet. Second, authors have noted that considerable variation exists as far as CCB throughout the world. Given the increasing reliance on the Internet and social media platforms by terrorist groups, additional investigation is needed to uncover to what extent lax online regulation plays in terrorist activity. To address this puzzle, we analyze data over a 20-year period for roughly 100 democratic and authoritarian states using V-dem and Digital Society Project data. The results of numerous analyses underscore the link between weak government regulation and terrorist activity.
+
+### Articles
+
+"Regional Contrasts in County-Level Public Management: Cultural Influences and Administrative Dynamics" 
+
+_Introduction_ Public management research often focuses on municipalities within individual states, raising questions about broader applicability due to cultural and historical variations across subregions in America. To address this gap, our study examines county-level data across states, and regions, aiming to shed light on rural public management differences. _Methodology_ Using county-level data as our unit of analysis, we examine local government structures to discern how local factors and regional characteristics impact public management patterns. Data sources and specific analysis methods will be detailed in the final paper. _Hypothesis_ Drawing from Elazar's subculture theory (1966), we hypothesize that counties within traditionalistic regions (e.g., the American South) may exhibit unique characteristics in their public administration. Specifically, we anticipate differences in the backgrounds and educational profiles of county administrators, results in a stronger reliance on local elites and less emphasis on formal education. _Conclusion_ This research uncovers how regional subcultures influence county-level public management. By exploring these nuances, we aim to contribute to a more comprehensive understanding of how cultural contexts shape administrative practices.
 
 
 
